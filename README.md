@@ -1,2 +1,2 @@
 # mlops-control-work
-MLOps Control Work - Elizaveta Gavrilova
+MLOps Control Work - Bakiev Marsel
